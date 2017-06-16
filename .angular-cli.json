@@ -19,6 +19,7 @@
       "testTsconfig": "tsconfig.spec.json",
       "prefix": "avd",
       "styles": [
+        "../node_modules/videogular2/fonts/videogular.css",
         "styles.css"
       ],
       "scripts": [],
